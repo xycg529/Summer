@@ -20,16 +20,16 @@ int fact(int n)//定义阶乘函数
 	}
 	return sum;
 }
-int cantor(int a[], int n)
+int cantor(int a[], int n)//定义康托展开函数
 {
-	int i, j, num = 0, sum = 0, rank = 0;
+	int i, j, cnt = 0,  rank = 0;//cnt是数组每一位前面比它大的数的个数，rank+1是所求序数
 	for(i = 1; i < n; i++){
-		for(j = i + 1; j < n; j++){
+		for(j = i + 1; j < n; j++){//每出现一个在当前位之前且比当前位数字大的数计数器+1
 			if(a[i] > [j]){
-				num++;
+				cnt++;
 			}
 		}
-		rank += num * fact(n-i);
+		rank += cnt * fact(n-i);
 	}
 	return rank+1;
 }
