@@ -26,12 +26,12 @@ int ret(int a,int b)//求余数
 }
 int main()
 {
-	int a, b, c, d1, d2, d3, r1, r2;
+	int a, b, c, d1, d2, d3, r1, r2;//abc分别为三个数，d为差值，r是最大公约数
 	scanf("%d %d %d", &a, &b, &c);
-	d1 = abs(a-b);
+	d1 = abs(a-b);//计算差值
 	d2 = abs(a-c);
 	d3 = abs(b-c); 
-	r1 = ret(d1, d2);
+	r1 = ret(d1, d2);//计算最大公约数
 	r2 = ret(r1, d3);
 	printf("%d", r2);
 	return 0;
