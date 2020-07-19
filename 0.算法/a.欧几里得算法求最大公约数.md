@@ -25,7 +25,3 @@ int main()
 	return 0;
 }
 ```
-## 测试结果
-本次测试网站为牛客网：[最大公约数](https://www.nowcoder.com/questionTerminal/7fd309b4ab854e6e9afda4794b1334a5)
-
-![测试结果](https://github.com/xycg529/Summer/blob/master/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95%E6%B1%82%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0.jpg)
