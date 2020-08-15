@@ -68,7 +68,7 @@ WTU 2020.7 Programming test
 
 2、力扣：https://leetcode-cn.com/problemset/all/
 
-3、中国大学MOOC：https://www.icourse163.org/category/computer
+~~3、中国大学MOOC：https://www.icourse163.org/category/computer~~
 
 4、网易云课堂：https://study.163.com/category/480000003131009
 
