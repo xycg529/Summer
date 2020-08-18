@@ -70,7 +70,7 @@ WTU 2020.7 Programming test
 
 ~~3、中国大学MOOC：https://www.icourse163.org/category/computer~~
 
-~~4、网易云课堂：https://study.163.com/category/480000003131009~
+~~4、网易云课堂：https://study.163.com/category/480000003131009~~
 
 5、哔哩哔哩：
 https://search.bilibili.com/all?keyword=%E7%AE%97%E6%B3%95&from_source=nav_suggest_new
